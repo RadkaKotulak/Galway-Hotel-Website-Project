@@ -1,4 +1,5 @@
 Team Website Project – Persona-Based Design
+https://radkakotulak.github.io/Galway-Hotel-Website-Project/index.html
 1️⃣ Introduction
 
 This project was developed as part of a team-based university assignment, where we designed and implemented a website by applying user-centered design principles. The focus was on persona development, competitor analysis, wireframing, and implementation.
